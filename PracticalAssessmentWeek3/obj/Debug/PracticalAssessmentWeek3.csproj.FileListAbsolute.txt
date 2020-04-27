@@ -1,0 +1,7 @@
+C:\Users\hphifer\source\repos\PracticalAssessmentWeek3\PracticalAssessmentWeek3\bin\Debug\PracticalAssessmentWeek3.exe.config
+C:\Users\hphifer\source\repos\PracticalAssessmentWeek3\PracticalAssessmentWeek3\bin\Debug\PracticalAssessmentWeek3.exe
+C:\Users\hphifer\source\repos\PracticalAssessmentWeek3\PracticalAssessmentWeek3\bin\Debug\PracticalAssessmentWeek3.pdb
+C:\Users\hphifer\source\repos\PracticalAssessmentWeek3\PracticalAssessmentWeek3\obj\Debug\PracticalAssessmentWeek3.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\PracticalAssessmentWeek3\PracticalAssessmentWeek3\obj\Debug\PracticalAssessmentWeek3.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\PracticalAssessmentWeek3\PracticalAssessmentWeek3\obj\Debug\PracticalAssessmentWeek3.exe
+C:\Users\hphifer\source\repos\PracticalAssessmentWeek3\PracticalAssessmentWeek3\obj\Debug\PracticalAssessmentWeek3.pdb
